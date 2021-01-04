@@ -1,6 +1,9 @@
 # pihole-facebook
 Facebook DNS Blocklist for Pihole.
 
+# Changes to original fork
+Instagram is no longer blocked.
+
 ## Usage
 
 1. Login into `Pi-hole admin`
